@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Rudraya!<br><br>🔭 I’m currently working on an AI-powered women's safety app with gesture and scream detection.<br><br>🌱 I’m currently learning advanced cloud computing (Microsoft Azure), mobile development, and studying Japanese!<br><br>👯 I’m looking to collaborate on innovative AI projects,  web applications.<br><br>💬 Ask me about Software Engineering, Data Communications, Cloud architecture, or my past projects like AI-based plant disease detection.<br><br>⚡ Fun fact: When I'm not coding or studying at VIT Bhopal, you can probably find me out playing and ranking up in Valorant or Building Something.
+Hi there 👋, I'm Rudraya Ritesh Thakre!<br><br>🔭 I’m currently working on an AI-powered women's safety app with gesture and scream detection.<br><br>🌱 I’m currently learning advanced cloud computing (Microsoft Azure), mobile development, and studying Japanese!<br><br>👯 I’m looking to collaborate on innovative AI projects,  web applications.<br><br>💬 Ask me about Software Engineering, Data Communications, Cloud architecture, or my past projects like AI-based plant disease detection.<br><br>⚡ Fun fact: When I'm not coding or studying at VIT Bhopal, you can probably find me out playing and ranking up in Valorant or Building Something.
 
 
 ## 🌐 Socials:
